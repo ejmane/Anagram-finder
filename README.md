@@ -5,4 +5,4 @@ Anagram.py doesn't work correctly for words with duplicate letters
 
 Anagram2.py should work correctly
 
-words_alpha.txt from 
+words_alpha.txt from https://github.com/dwyl/english-words
